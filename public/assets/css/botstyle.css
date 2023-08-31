@@ -1,0 +1,18 @@
+
+    /* Изменение цвета фона и шрифта */
+#botmanWidgetRoot {
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+/* Стилизация заголовка виджета */
+.botman-widget-container .botman-widget-header {
+    background-color: #333;
+    color: white;
+}
+
+/* Стилизация кнопок виджета */
+.botman-widget-container .botman-widget-button {
+    background-color: #2ecc71;
+    color: white;
+}
